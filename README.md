@@ -6,3 +6,5 @@
 08/03 ListView 알기 자바스트립트 다시 공부할것<br>
 08/04 GetElementById
 08/05 $ele 사용해보기
+08/06 팝업 WindowView.fullpopup('Source/WindowView/invest/resse0003.lay', data);<br>
+페이지 이동 theApp.goPage('resse0101');
