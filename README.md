@@ -8,3 +8,4 @@
 08/05 $ele 사용해보기
 08/06 팝업 WindowView.fullpopup('Source/WindowView/invest/resse0003.lay', data);<br>
 페이지 이동 theApp.goPage('resse0101');
+08/07 navigator.registerPage, navigator.goPage('V001'); 페이지 이동
