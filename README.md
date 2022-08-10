@@ -7,6 +7,7 @@
 08/04 GetElementById
 08/05 $ele 사용해보기
 08/06 팝업 WindowView.fullpopup('Source/WindowView/invest/resse0003.lay', data);<br>
-페이지 이동 theApp.goPage('resse0101');
-08/07 버튼에 $ele로 배경색선언하지 않기 적용안됨
-08/09 JSON다시 공부하자
+페이지 이동 theApp.goPage('resse0101');<br>
+08/07 버튼에 $ele로 배경색선언하지 않기 적용안됨<br>
+08/09 JSON다시 공부하자<br>
+08/10 라이브러리 읽어보기
